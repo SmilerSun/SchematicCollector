@@ -3,6 +3,18 @@ You are probably wondering... Why did I make this? This is for my personal use a
 
 https://github.com/SmilerSun/SchematicCollector
 
-This Repository has MIXTECH, LOGIC, SERPULO, UNIT PRODUCTION, DRILLS, TURRETS...
+This Repository has:
+
+mindustry
+mindustry-schematics
+mindustry-v8
+mixtech
+mixed-tech
+serpulo
+mindustry
+mindustry-serpulo
+schematics
+
+Like turrets and units and stuff.
 
 But not that much, I'll probably add more if I found some useful stuff in other repository, discord, servers, and reddit.
